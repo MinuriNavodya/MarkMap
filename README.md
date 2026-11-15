@@ -19,5 +19,10 @@ effectively.
 - AsyncStorage / expo-sqlite for local storage
 - Local JSON dataset for seed data
 
+## setup instructions
+Requirements: Node.js (LTS), Git, and the Expo Go app on your phone (or an Android emulator).
+
+Scan the QR code with Expo Go (phone and computer on the same Wi-Fi), or press a for the Android emulator.
+
 ## Project Info
 Individual project– React Native.
